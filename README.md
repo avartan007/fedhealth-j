@@ -1,8 +1,6 @@
 # FedHealth-J: Federated Learning for Japanese Elderly Health Monitoring
 
 **Privacy-Preserving, Culturally-Aware Anomaly Detection on Edge Devices**  
-MEXT Master’s Research Proposal — 2026 Intake  
-By [Your Full Name], Computer Engineering, Sinhgad Institute of Technology, Pune, India  
 
 ---
 
@@ -24,19 +22,7 @@ python j_health_100_generator.py
 \`\`\`
 
 **Run demo:**
-Open [fed_model_demo_colab.ipynb](https://colab.research.google.com/github/yourusername/fedhealth-j/blob/main/fed_model_demo_colab.ipynb)
-
----
-
-## Repository Structure
-\`\`\`
-fedhealth-j/
-├── README.md
-├── j_health_100_generator.py
-├── cultural_profile.py
-├── fed_model_demo_colab.ipynb
-└── LICENSE
-\`\`\`
+Open [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/avartan007/fedhealth-j/blob/main/fed_model_demo_colab.ipynb)
 
 ---
 
